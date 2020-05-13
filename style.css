@@ -1,0 +1,95 @@
+/* Fonts  */
+@import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@1,700&display=swap" rel="stylesheet");
+
+/* Styles*/
+div {
+}
+
+#profile{
+height:490px;
+
+}
+
+.card {
+  text-align: center;
+  width:500px;
+  margin: 10px auto;
+  background: #abf0e9;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+
+}
+
+#avatar{
+  height:200px;
+  border-radius: 50%;
+}
+body {
+  background-color: rgb(213,213,213) ;
+}
+
+p {
+  font-family: 'Pangolin', cursive;;
+}
+
+
+
+li {
+  font-family: 'Pangolin', cursive;;
+  margin:0;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+
+h1 {
+  font-family: 'Balsamiq Sans', cursive;
+  color: #ee8572;
+}
+
+h2 {
+  color: #ee8572;
+  margin:5px;
+}
+
+#social-media li {
+    padding-left: 0px;
+    list-style-type: none;
+    display: inline-block;
+    padding:0;
+}
+
+.btn-red {
+  background: red;
+  color:white;
+  text-decoration: none;
+  padding:2px 5px;
+  border-radius:5px;
+}
+
+
+a {
+  color:gray;
+  text-decoration: none;
+  transition: 0.3s;
+  padding:0;
+  margin: 0 auto;
+}
+
+
+i{
+  font-size:25px;
+  padding:0;
+}
+
+
+i:hover {
+  color: #63b7af;
+  border:1px solid #63b7af;
+}
+
+ul {
+  margin:0;
+  padding:0;
+}
